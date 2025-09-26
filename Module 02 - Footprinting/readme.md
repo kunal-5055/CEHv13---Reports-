@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Footprinting & Reconnaissance  
+# 🕵️‍♂️ Footprinting & Reconnaissance 
 
 Footprinting is the **first phase of ethical hacking**, where an attacker (or security tester) gathers as much information as possible about a target system, network, or organization.  
 The goal is to create a complete profile of the target before attempting further exploitation.  
