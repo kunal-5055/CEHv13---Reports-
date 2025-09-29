@@ -2,7 +2,7 @@
 
 Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks aim to make a service, network, or application unavailable to legitimate users by overwhelming resources or exploiting protocol/implementation weaknesses. This module explains attack types, real-world examples, detection techniques, and mitigation strategies.
 
----
+----
 
 ## 📌 Topics Covered
 - 🧩 DoS vs DDoS — definitions & distinctions  
